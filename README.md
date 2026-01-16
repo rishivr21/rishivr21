@@ -14,5 +14,3 @@ Hi, I'm Rishikant Verma 👋  <br><br>🎓 Engineering student at Trident Academ
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rishivr21&icon=0&color=0)](https://visitcount.itsvg.in)
-
-fgnfthzdfhttzdtrsjnyxsyjtxgfysjxyyyyyyyyy
