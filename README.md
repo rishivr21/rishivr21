@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I'm Rishikant Verma 👋  <br><br>🎓 Engineering student at Trident Academy of Technology  <br>💻 C programmer | DSA learner | Web development enthusiast  <br>📌 Interested in backend development and problem-solving  <br><br>Always learning, building, and improving 🚀<br>
+# About Me:
+Engineering student at Trident Academy of Technology with expertise in C programming and DSA <br><br> Engineering student at Trident Academy of Technology with expertise in C and JAVA programming and DSA<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rishi_vr21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishikant-verma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishikantver@gmail.com) 
