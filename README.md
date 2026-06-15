@@ -1,5 +1,20 @@
 # About Me:
-<br> Engineering student at Trident Academy of Technology with expertise in C and JAVA programming and DSA<br>Passionate about backend development, problem-solving, and continuous learning.<br>
+<br> Engineering student at Trident Academy of Technology with expertise in C and JAVA programming and DSA<br>
+Passionate about Backend Development, Data Structures & Algorithms, Problem Solving and continuous learning.
+
+🌱 Currently Learning:
+
+System Design
+Backend Development
+Open Source Contributions
+
+🚀 Areas of Interest:
+
+Data Structures & Algorithms
+Software Development
+Database Management Systems
+Computer Networks
+<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rishi_vr21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishikant-verma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishikantver@gmail.com) 
