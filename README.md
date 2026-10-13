@@ -1,33 +1,59 @@
-# About Me:
-<br> Engineering student at Trident Academy of Technology with expertise in C and JAVA programming and DSA<br>
-Passionate about Backend Development, Data Structures & Algorithms, Problem Solving and continuous learning.
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=Rishikant%20Verma%20&fontSize=50&fontColor=fff&animation=fadeIn)
 
-🌱 Currently Learning:
+<div align="center">
 
-System Design
-Backend Development
-Open Source Contributions
+### software developer | Bhubaneshwar
 
-🚀 Areas of Interest:
+A passionate developer.
 
-Data Structures & Algorithms
-Software Development
-Database Management Systems
-Computer Networks
-<br>
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rishi_vr21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishikant-verma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishikantver@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rishivr21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rishivr21&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishivr21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rishivr21&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 💻 Tech Stack
+
+![java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white) ![c](https://img.shields.io/badge/c-333?style=for-the-badge&logo=c&logoColor=white) ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) ![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white) ![html](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html&logoColor=white) ![css](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css&logoColor=white) ![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![springboot](https://img.shields.io/badge/springboot-333?style=for-the-badge&logo=springboot&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishivr21&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishivr21&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+
+</div>
+
+---
+
+### 🌱 Currently
+
+- 📚 Learning: **Java, Data Structures & Algorithms (DSA), Spring Boot, and Backend Development**
+- 🤝 Open to collaborate on: **Java projects, backend applications, open-source contributions, and beginner-friendly coding projects**
+- 💬 Ask me about: **C, C++, Java, DSA, Object-Oriented Programming (OOP), MySQL, and Git/GitHub**
+
+---
+
+### 📫 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishikantver@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rishikant-verma/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishivr21)
+
+</div>
+
+---
+
+---
+
+---
+
+<div align="center">
+
+⚡ I enjoy solving coding problems, building projects, and turning ideas into practical solutions.
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer)
